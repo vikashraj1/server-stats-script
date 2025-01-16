@@ -2,7 +2,7 @@
 
 Bash script to quickly analyze server performance on Linux.
 
-This project is created as part of the [Server Performance Stats](https://roadmap.sh/projects/server-stats).
+This project is created as part of the [Server Performance Stats Project](https://roadmap.sh/projects/server-stats).
 
 
 ## 🌟 Features
